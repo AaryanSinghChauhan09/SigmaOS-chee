@@ -1,4 +1,6 @@
-# omachee.org
+# SigmaOS Omachee
+
+> Forked from omacom/omachee (MIT). See `SIGMAOS_FORK.md`.
 
 A Cloudflare Worker serving one static page for `omachee.org`, a common
 misspelling of [omarchy.org](https://omarchy.org):
