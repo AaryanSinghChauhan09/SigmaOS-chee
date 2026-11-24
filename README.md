@@ -28,3 +28,8 @@ still land on the joke.
 `public/oh-mah-chee.mp3` is DHH saying it. The speaker button's `aria-label`
 carries the phonetic spelling too, so the point survives with the sound off.
 The uncut recording (`raw.wav`) is deliberately not committed.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-chee) - Full Wiki documentation for all SigmaOS components
