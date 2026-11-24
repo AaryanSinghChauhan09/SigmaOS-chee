@@ -1,6 +1,6 @@
 [component]
-name = "omachee"
-id = "sigmaos-omachee"
+name = "sigmaos-chee"
+id = "sigmaos-chee"
 kind = "component"
 license = "GPL-3.0-or-later"
 
