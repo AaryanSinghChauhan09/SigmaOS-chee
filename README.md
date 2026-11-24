@@ -3,11 +3,11 @@
 > Forked from SigmaOS/omachee (MIT). See `SIGMAOS_FORK.md`.
 
 A Cloudflare Worker serving one static page for `omachee.org`, a common
-misspelling of [omarchy.org](https://omarchy.org):
+misspelling of [sigmaos.org](https://sigmaos.org):
 
 > Yes, it's pronounced OMACHEE, but we spell it OMARCHY. The R is silent.
 
-Colors and type are lifted from omarchy.org's `root.css` (Tokyo Night,
+Colors and type are lifted from sigmaos.org's `root.css` (Tokyo Night,
 JetBrains Mono).
 
 ## Deploying
