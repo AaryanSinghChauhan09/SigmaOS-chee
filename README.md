@@ -5,7 +5,7 @@
 A Cloudflare Worker serving one static page for `omachee.org`, a common
 misspelling of [sigmaos.org](https://sigmaos.org):
 
-> Yes, it's pronounced OMACHEE, but we spell it OMARCHY. The R is silent.
+> SigmaOS Chee — system utility component.
 
 Colors and type are lifted from sigmaos.org's `root.css` (Tokyo Night,
 JetBrains Mono).
